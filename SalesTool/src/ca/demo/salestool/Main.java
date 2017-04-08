@@ -14,6 +14,8 @@ public class Main {
 		{
 			System.out.println("Hello Happy Sales People....");
 			System.out.println("This application is for Sales Data");
+			
+			System.out.println("Just to check the update");
 		}
 
 	}
